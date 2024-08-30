@@ -1,0 +1,2 @@
+# steam_market_reminder
+在挂刀行情好的时候给我发邮件提醒
