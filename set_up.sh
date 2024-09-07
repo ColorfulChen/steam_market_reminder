@@ -1,2 +1,2 @@
 #!/bin/sh
-apt install chromium-browser
+sudo apt install chromium-browser
