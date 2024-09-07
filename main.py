@@ -67,4 +67,4 @@ def shorten_info(info):
 if __name__ == "__main__":
     info = get_info_from_iflow()
     shorted = shorten_info(info)
-    send_info_to_server_chan(info, description="今日行情")
+    send_info_to_server_chan(shorted, description="今日行情")
