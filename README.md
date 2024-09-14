@@ -9,3 +9,4 @@
 3. apply for serverchan sendkey. see[SendKey (ftqq.com)](https://sct.ftqq.com/sendkey).
 4. go to your forked reposiroty page.
 5. go to settings->Secrets and Varibles->New repository secret->set "SERVERCHANSENDKEY" to your sendkey you just applyed in step 3.
+6. turn on github actions at Actions->steam market reminder.
